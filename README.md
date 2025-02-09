@@ -54,9 +54,12 @@ npx expo start
 ```
 
 ## 📸 Screenshots
-![Home Screen](./assets/screenshots/home.png)
-![Job Details](./assets/screenshots/job-details.png)
-![Bookmarks](./assets/screenshots/bookmarks.png)
+![Job Details](./assets/2.jpeg)
+![Bookmarks Screen](./assets/3.jpeg)
+![Details Screen](./assets/1.jpeg)
+![Bookmarks](./assets/4.jpeg)
+
+
 
 ## 📹 Demo
 🎥 Watch the app in action: [Video Demo](https://drive.google.com/file/d/1b3JsDP6T32MfiQ7d7wEPQ6zwJlhRXKFc/view?usp=sharing)
