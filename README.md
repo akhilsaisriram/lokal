@@ -2,6 +2,14 @@
 
 A mobile job board application built with **Expo**, allowing users to browse job listings, save bookmarks, and manage their job search efficiently.
 
+## 📹 Demo
+🎥 Watch the app in action: [Video Demo](https://drive.google.com/file/d/1b3JsDP6T32MfiQ7d7wEPQ6zwJlhRXKFc/view?usp=sharing)
+
+## 📄 Documentation
+📖 Read the full documentation: [Google Docs](https://docs.google.com/document/d/1kW5TBDXTRV4RGegYSqrWS0fLRg-fj237/edit?usp=sharing)
+
+
+
 ## 🚀 Features
 
 ### 🖥 User Interface
@@ -60,12 +68,6 @@ npx expo start
 ![Bookmarks](./assets/4.jpeg)
 
 
-
-## 📹 Demo
-🎥 Watch the app in action: [Video Demo](https://drive.google.com/file/d/1b3JsDP6T32MfiQ7d7wEPQ6zwJlhRXKFc/view?usp=sharing)
-
-## 📄 Documentation
-📖 Read the full documentation: [Google Docs](https://docs.google.com/document/d/1kW5TBDXTRV4RGegYSqrWS0fLRg-fj237/edit?usp=sharing)
 
 
 
