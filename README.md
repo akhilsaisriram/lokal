@@ -64,13 +64,5 @@ npx expo start
 ## 📄 Documentation
 📖 Read the full documentation: [Google Docs](https://docs.google.com/document/d/1kW5TBDXTRV4RGegYSqrWS0fLRg-fj237/edit?usp=sharing)
 
-## 👥 Contributors
-- **Akhil Sai Saream**
-- **Abhi Vardhan T**
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
----
-
-Enjoy coding! 🚀
